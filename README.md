@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Stephanie Tavares</h1>
+<h2 align="center">Hello 👋, I'm Stephanie Tavares</h2>
 <h3 align="center">A DevOps Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanie-tavares" alt="stephanie-tavares" /></a> </p>
@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on [Zup It Innovation](https://www.zup.com.br/)
 
 - 🌱 I’m currently learning **Python, GitLab, GitHub, AWS Certifications, CKA**
-
-- 👯 I’m looking to collaborate on **DevOps opensource projects**
 
 - 💬 Ask me about **AWS, Python, GitHub, AWS, Kubernetes**
 
