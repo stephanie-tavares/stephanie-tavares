@@ -1,5 +1,5 @@
 <h2 align="center">Hello 👋, I'm Stephanie Tavares</h2>
-<h3 align="center">A DevOps Engineer</h3>
+<h3 align="center">A DevOps / Cloud Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanie-tavares" alt="stephanie-tavares" /></a> </p>
 
