@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Zup It Innovation](https://www.zup.com.br/)
 
-- 🌱 I’m currently learning **Python, GitLab, GitHub, AWS Certifications, CKA**
+- 🌱 I’m currently learning **Python, GitHub, AWS Solution Architect / AWS DevOps professional, CKA, Kubernetes**
 
 - 💬 Ask me about **AWS, Python, GitHub, AWS, Kubernetes**
 
