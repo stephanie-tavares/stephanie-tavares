@@ -1,13 +1,11 @@
 <h2 align="center">Hello 👋, I'm Stephanie Tavares</h2>
-<h3 align="center">A DevOps / Cloud Engineer</h3>
+<h3 align="center">A Senior DevOps / Cloud Engineer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stephanie-tavares" alt="stephanie-tavares" /></a> </p>
 
-- 🔭 I’m currently working on [Zup It Innovation](https://www.zup.com.br/)
+- 🔭 I’m currently working on [Nexer Group](https://nexergroup.com/)
 
-- 🌱 I’m currently learning **Python, GitHub, AWS Solution Architect / AWS DevOps professional, CKA, Kubernetes**
-
-- 💬 Ask me about **AWS, Python, GitHub, AWS, Kubernetes**
+- 🌱 I’m currently learning **Python, AWS Solution Architect / AWS DevOps professional**
 
 - 📫 How to reach me **stephanietavares.rj@gmail.com**
 
